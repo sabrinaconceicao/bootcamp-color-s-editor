@@ -5,7 +5,7 @@ Aplicação de alteração de cores via manipulação do DOM desenvolvida para o
 <hr>
 
 <p align="center">
-  <img width="900px" src=""/>
+  <img width="700px" src="https://github.com/sabrinaconceicao/bootcamp-color-s-editor/blob/master/EditCor.gif?raw=true"/>
 </p>
 
 ## Linguagens e Tecnologias utilizadas: :computer:
